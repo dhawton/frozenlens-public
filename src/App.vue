@@ -15,7 +15,7 @@ html {
 body {
   background-image: url(./assets/background.jpg);
   background-size: cover;
-  background-position: top left;
+  background-position: center left;
   margin: 0;
   padding: 0;
   height: 100%;
