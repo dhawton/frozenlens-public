@@ -5,7 +5,6 @@ script:
   - npm run build
 before_deploy:
   - pip install --user awscli
-  - ~/.local/bin/aws s3
 deploy:
   on:
     branch: master
