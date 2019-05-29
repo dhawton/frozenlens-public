@@ -1,7 +1,7 @@
 import Vue from "vue";
 import Vuex from "vuex";
 import { API, graphqlOperation } from "aws-amplify";
-import { ListAlbums } from "queries";
+import { ListAlbums } from "./queries";
 
 Vue.use(Vuex);
 
