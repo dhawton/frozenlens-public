@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "frozenlensapi",
+    "DynamoDBBillingMode": "PROVISIONED",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authfrozenlenspublica575aa7e",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

@@ -1,17 +1,15 @@
 {
-    "projectName": "frozenlens-public",
-    "version": "2.0",
-    "frontend": "javascript",
-    "javascript": {
-        "framework": "vue",
-        "config": {
-            "SourceDir": "src",
-            "DistributionDir": "dist",
-            "BuildCommand": "npm run build",
-            "StartCommand": "npm run serve"
-        }
-    },
-    "providers": [
-        "awscloudformation"
-    ]
+  "projectName": "frozenlens-public",
+  "version": "2.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "vue",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "dist",
+      "BuildCommand": "npm.cmd run-script build",
+      "StartCommand": "npm.cmd run-script serve"
+    }
+  },
+  "providers": ["awscloudformation"]
 }
