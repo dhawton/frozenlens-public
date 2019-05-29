@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"frozenlenspublica575aa7e": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
