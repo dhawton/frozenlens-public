@@ -1,0 +1,19 @@
+{
+    "vsc": {
+        "awscloudformation": {
+            "AuthRoleName": "frozenlens-public-vsc-20190529145801-authRole",
+            "UnauthRoleArn": "arn:aws:iam::609673815888:role/frozenlens-public-vsc-20190529145801-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::609673815888:role/frozenlens-public-vsc-20190529145801-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "frozenlens-public-vsc-20190529145801-deployment",
+            "UnauthRoleName": "frozenlens-public-vsc-20190529145801-unauthRole",
+            "StackName": "frozenlens-public-vsc-20190529145801",
+            "StackId": "arn:aws:cloudformation:us-west-2:609673815888:stack/frozenlens-public-vsc-20190529145801/36beea20-8265-11e9-af7e-028e0c7104f2"
+        },
+        "categories": {
+            "auth": {
+                "frozenlenspublic": {}
+            }
+        }
+    }
+}
